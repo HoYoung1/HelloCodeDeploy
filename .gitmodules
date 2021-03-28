@@ -1,0 +1,3 @@
+[submodule "aws-codedeploy-samples"]
+	path = aws-codedeploy-samples
+	url = https://github.com/aws-samples/aws-codedeploy-samples.git
